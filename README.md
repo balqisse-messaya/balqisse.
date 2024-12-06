@@ -1,1 +1,1 @@
-![Ma bannière](./banner.jpg)
+![Ma bannière](./banner.png)
